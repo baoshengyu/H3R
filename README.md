@@ -50,7 +50,7 @@ python examples/test_lapa.py --model models/lapa/hrnet18_256x256_p2/
 | MobileNetV2 | P2 | 256x256 | 0.60M | 0.52G | 1.69 |
 | MobileNetV2 | P2 | 128x128 | 0.60M | 0.13G | 2.08 |
 
-**NOTE**：all models can also be downloaded from [google drive](https://drive.google.com/file/d/148gJAnPfgfWl-xc6eLIcjQy9a0HM6Fu9/view?usp=sharing).
+**NOTE**：All pretrained models can also be downloaded from [google drive](https://drive.google.com/file/d/148gJAnPfgfWl-xc6eLIcjQy9a0HM6Fu9/view?usp=sharing).
 
 ## Citation
 
